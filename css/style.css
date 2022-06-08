@@ -1,6 +1,7 @@
 /* Box Model Hack */
 * {
   box-sizing: border-box;
+  background-color: rgb(176, 113, 235);
 }
 
 /* Clear fix hack */
