@@ -16,6 +16,7 @@ My starting point was to get the content on here with HTML.
 None as of yet
 
 ## Lessons Learned:
+- There are a list of generic CSS Fonts to use [https://www.w3schools.com/Css/css_font.asp]
 
+- There is a list that exist of CSS Web Safe Fonts [https://www.w3schools.com/cssref/css_websafe_fonts.asp] meaning fonts used on every computer/device always fallback with a generic font 
 
-## Examples:
