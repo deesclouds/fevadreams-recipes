@@ -23,32 +23,52 @@
 /* BASE STYLES
 /*******************************************/
 
-#header {
+body{
+  background-color: rgb(176, 113, 235);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#header, .top{
   color: #40e0d0;
 }
 
+#header {
+  margin: 20px 0 20px 0;
+  font-size: 42px;
+}
 
+.top{
+  text-decoration: none;
+  font-size: 22px;
+  display: flex;
+  background-color: rgba(64, 224, 208, 0.606);
+  color: black;
+  width:100px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+img {
+  width: 300px;
+  margin: 20px 0 20px 0;
+}
+
+ ul {
+  list-style: none;
+  margin-top: 20px
+}
+
+section.recipes{
+  background-color: hsla(51, 100%, 50%, 0.627);
+  height: 100px;
+  width: 300px;
+  border: 2px solid black;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
-  height: 200px;
-  border: 2px solid black;
-  clear: both;
-
-}
-section {
-  height: 600px;
-  width: 33.333%;
-  border: 2px solid black;
-  float: left;
-}
-
-footer {
-  height: 200px;
-  border: 2px solid black;
-  clear:both;
-}
 
 /******************************************
 /* ADDITIONAL STYLES
