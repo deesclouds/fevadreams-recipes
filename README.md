@@ -7,7 +7,7 @@ A plethora of delicious recipes that you can enjoy!
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS
 
 My starting point was to get the content on here with HTML. 
 
