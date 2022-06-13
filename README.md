@@ -3,13 +3,14 @@ A plethora of delicious recipes that you can enjoy!
 
 **Link to project:** [http://PLACELINKHERE/]
 
-![alt tag](http://PLACEIMAGEHERE)
+**Photo of project** ![alt tag](http://PLACEIMAGEHERE)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS
 
 My starting point was to get the content on here with HTML. 
+I used CSS to incorporate some styling and noticed it started to look like the old azlyrics site from back in the day but more saturated in color. 
 
 ## Optimizations
 
