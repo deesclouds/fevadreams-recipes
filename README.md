@@ -3,7 +3,9 @@ A plethora of delicious recipes that you can enjoy!
 
 **Link to project:** [https://deesclouds.github.io/fevadreams-recipes/]
 
-**Photo of project** ![image of recipe site]([img](https://ibb.co/PTttGFV) )
+**Photo of project** ![image of recipe site]
+<br>
+<a href="https://ibb.co/PTttGFV"><img src="https://i.ibb.co/JxCCjmS/Screen-Shot-2022-09-26-at-8-27-55-PM.png" border="0"></a>
 
 ## How It's Made:
 
